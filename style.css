@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&family=Macondo&display=swap');
+
 body{
   margin: 0;
-    font-family: "Playwrite DE Grund", cursive;
+  font-family: "Dosis", serif;
       background-color:black;
       color:red;
      
